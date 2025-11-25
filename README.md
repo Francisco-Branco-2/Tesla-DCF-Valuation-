@@ -1,3 +1,5 @@
+*Disclaimer: This model is for educational and demonstrative purposes only.*
+---
 # Tesla (TSLA) Valuation - Discounted Cash Flow (DCF) Model
 
 ## 1. Repository Objective
@@ -41,3 +43,6 @@ At the end of the notebook, the repository presents:
 
 ## How to Run
 1.  Just download the Excel file and open it in the Office app on your desktop.
+
+---
+*Disclaimer: This model is for educational and demonstrative purposes only.*
