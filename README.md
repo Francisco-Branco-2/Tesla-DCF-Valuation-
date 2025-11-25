@@ -40,4 +40,4 @@ At the end of the notebook, the repository presents:
 ---
 
 ## How to Run
-1.  Just download the excel file, and open on Oficce app on your desktop.
+1.  Just download the Excel file and open it in the Office app on your desktop.
